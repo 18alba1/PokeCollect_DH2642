@@ -30,17 +30,6 @@ For example, place images in a `screenshots/` directory and embed them like this
 ![Pokédex view](screenshots/pokedex.png)
 ```
 
-## My Contributions
-
-I contributed to the application as part of a four-person development team. My main areas of responsibility included:
-
-- **Authentication UI:** Implemented the login view and related presentation logic.
-- **Pokémon details:** Worked on the detailed view shown when a user selects a Pokémon.
-- **Pack-opening experience:** Contributed to the open-cards flow and related information popups.
-- **Navigation:** Contributed to the navigation bar and the integration of views into the application.
-
-The project also involved collaborating across shared components and integrating features developed by different team members.
-
 ## Technical Highlights
 
 - Integrated an external REST API to retrieve Pokémon data.
@@ -101,10 +90,6 @@ To create a production build:
 npm run build
 ```
 
-## What I Learned
-
-Working on PokeCollect gave me practical experience building a complete interactive web application as part of a team. Key areas included integrating an external API, working with authentication and persistent user data, structuring React views and presentation logic, managing state, and iterating on usability based on user feedback.
-
 ## Team
 
 Built collaboratively by:
@@ -113,7 +98,3 @@ Built collaboratively by:
 - [Elias Amani](https://github.com/Eliasamani)
 - [Razan Yakoub](https://github.com/RazanYakoub01)
 - [Seema Bashir](https://github.com/Seemamian)
-
----
-
-[Repository](https://github.com/18alba1/PokeCollect_DH2642) · [Live demo](https://pokecollect-pied.vercel.app/)
