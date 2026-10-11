@@ -4,6 +4,12 @@
 
 **Live demo:** [Try PokeCollect](https://pokecollect-pied.vercel.app/)
 
+**Video demo:**
+
+https://github.com/user-attachments/assets/cfcd44b8-b69c-4cc3-9946-35b8e97c1492
+
+
+
 ## Overview
 
 The project brings together data from the [PokéAPI](https://pokeapi.co/) and user-specific data stored with Firebase. It was built collaboratively, with a focus on interactive UI, client-side state management, authentication, persistent user data, and responsive design.
